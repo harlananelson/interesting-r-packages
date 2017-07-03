@@ -1,0 +1,3 @@
+# Installation
+To insall a package on the command line use. This might work when install.packages doesn't
+```R CMD INSTALL```
