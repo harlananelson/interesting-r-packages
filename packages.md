@@ -8,4 +8,7 @@ VGAM https://cran.r-project.org/web/packages/VGAM/index.html
 
 analyticflow http://r.analyticflow.com/en/download/
 
+rinno http://www.ficonsulting.com/filabs/RInno
+How to install local shiny apps
+
 
